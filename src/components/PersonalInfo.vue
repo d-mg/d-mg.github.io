@@ -1,11 +1,8 @@
 <template>
   <div class="personal">
-    <h3>Dries Goethuys</h3>
+    <h3>dmg_</h3>
     <ul>
-      <li>Violetstraat 17</li>
-      <li>Tienen, Belgium</li>
-      <li><a href="mailto:dries.goethuys@gmail.com">dries.goethuys@gmail.com</a></li>
-      <li><a href="tel:+32478703934">+32478 70 39 34</a></li>
+      <li><a href="mailto:w2zw8gz0.s1iu5i1p@getinbox.io">mail</a></li>
     </ul>
   </div>
 </template>

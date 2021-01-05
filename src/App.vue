@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img alt="Logo" src="./assets/logo.png">
     <PersonalInfo />
     <Links />
   </div>
