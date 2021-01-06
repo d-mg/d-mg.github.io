@@ -1,19 +1,16 @@
 <template>
   <div id="app">
     <PersonalInfo />
-    <Links />
   </div>
 </template>
 
 <script>
 import PersonalInfo from './components/PersonalInfo.vue'
-import Links from './components/Links.vue'
 
 export default {
   name: 'App',
   components: {
-    PersonalInfo,
-    Links
+    PersonalInfo
   }
 }
 </script>
