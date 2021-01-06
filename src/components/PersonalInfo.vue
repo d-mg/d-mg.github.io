@@ -9,8 +9,8 @@
 
 <script>
 export default {
-  name: 'PersonalInfo'
-}
+  name: "PersonalInfo",
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

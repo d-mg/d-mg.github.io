@@ -5,19 +5,18 @@
 </template>
 
 <script>
-import PersonalInfo from './components/PersonalInfo.vue'
+import PersonalInfo from "./components/PersonalInfo.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    PersonalInfo
-  }
-}
+    PersonalInfo,
+  },
+};
 </script>
 
 <style>
 body {
-
   background-color: #000000;
 }
 #app {
