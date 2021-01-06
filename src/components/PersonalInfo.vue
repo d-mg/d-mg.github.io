@@ -1,9 +1,7 @@
 <template>
   <div class="personal">
-    <h3>dmg_</h3>
-    <ul>
-      <li><a href="mailto:w2zw8gz0.s1iu5i1p@getinbox.io">mail</a></li>
-    </ul>
+    <h1>dmg_</h1>
+    <a href="mailto:w2zw8gz0.s1iu5i1p@getinbox.io">mail</a>
   </div>
 </template>
 
@@ -18,6 +16,12 @@ export default {
 .personal {
   margin: 0 10em;
   text-align: left;
+}
+@media only screen and (max-width: 600px) {
+  .personal {
+    margin: 0;
+    text-align: center;
+  }
 }
 ul {
   list-style-type: none;
