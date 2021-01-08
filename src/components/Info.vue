@@ -1,5 +1,5 @@
 <template>
-  <div class="personal">
+  <div class="info">
     <h1>dmg_</h1>
     <a href="mailto:w2zw8gz0.s1iu5i1p@getinbox.io">mail</a>
   </div>
